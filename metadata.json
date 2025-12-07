@@ -1,0 +1,5 @@
+{
+  "name": "Helbulid",
+  "description": "An AI-powered website builder that generates, previews, and publishes websites in real-time using Gemini 3 Pro.",
+  "requestFramePermissions": []
+}
